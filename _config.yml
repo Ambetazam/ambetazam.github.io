@@ -1,0 +1,13 @@
+title: "Jean Steven :: Cyberalchemist"
+description: "Systems Engineering • Software Engineering • Cybersecurity • AI • Open Source"
+
+url: "https://ambetazam.github.io"
+
+author:
+  name: "Jean Steven"
+  github: "Ambetazam"
+
+markdown: kramdown
+
+exclude:
+  - README.md
